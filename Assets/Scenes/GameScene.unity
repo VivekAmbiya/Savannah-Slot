@@ -2924,7 +2924,7 @@ GameObject:
   - component: {fileID: 1338111827}
   - component: {fileID: 1338111828}
   m_Layer: 5
-  m_Name: Reel1
+  m_Name: 'Reel '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2953,7 +2953,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 150, y: -3.4}
+  m_AnchoredPosition: {x: 150, y: 0}
   m_SizeDelta: {x: 297.9716, y: 1684.8564}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1338111828
@@ -3398,10 +3398,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 158dc091500983341aa17754dfdfd4c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  leaderButton: {fileID: 202956230}
   menuButton: {fileID: 1335139255}
   settingsButton: {fileID: 1031918321}
   celenderButton: {fileID: 637552773}
+  leaderButton: {fileID: 202956230}
   spinButton: {fileID: 1137698618}
   reels:
   - {fileID: 1338111828}
@@ -3419,7 +3419,7 @@ GameObject:
   - component: {fileID: 1692164805}
   - component: {fileID: 1692164806}
   m_Layer: 5
-  m_Name: Reel1 (2)
+  m_Name: Reel(2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3563,7 +3563,7 @@ GameObject:
   - component: {fileID: 1789121110}
   - component: {fileID: 1789121111}
   m_Layer: 5
-  m_Name: Reel1 (1)
+  m_Name: Reel(1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

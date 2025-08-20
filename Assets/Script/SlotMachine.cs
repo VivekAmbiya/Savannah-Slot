@@ -6,10 +6,10 @@ using System.Collections;
 public class SlotMachine : MonoBehaviour
 {
     [Header("Buttons")]
-    public Button leaderButton;
     public Button menuButton;
     public Button settingsButton;
     public Button celenderButton;
+    public Button leaderButton;
     public Button spinButton;
     
     [Header("Reels Object")]
